@@ -1,0 +1,7 @@
+package: ionosdomains
+output: gen/ionosdomains.gen.go
+
+generate:
+  - types
+  - client
+

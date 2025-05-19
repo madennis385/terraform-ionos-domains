@@ -1,0 +1,3 @@
+module github.com/DeepThunking/terraform-provider-ionosdomains
+
+go 1.24.3
